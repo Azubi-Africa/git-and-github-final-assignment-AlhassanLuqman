@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Azubi Week 06 Peer Programming            |  -Alhassan Luqman's Submission of Peer Programming Project Wk 06       | https://github.com/AlhassanLuqman/Azubi_Week_06_PeerProgramming.git       |
-| 2 |  -Azubi Week 07 Peer Programming            |  -Alhassan Luqman's Submission of Peer Programming Project Wk 07       | https://github.com/AlhassanLuqman/Azubi_Week07_Peer_Programming.git       |
-| 3 |  -Azubi Week 08 Peer Programming            |  -Alhassan Luqman's Submission of Peer Programming Project Wk 08       | https://github.com/AlhassanLuqman/Azubi_Week08_Peer_Programming.git       |
+| 1 |  Azubi Week 06 Peer Programming            |  Alhassan Luqman's Submission of Peer Programming Project Wk 06       | https://github.com/AlhassanLuqman/Azubi_Week_06_PeerProgramming.git       |
+| 2 |  Azubi Week 07 Peer Programming            |  Alhassan Luqman's Submission of Peer Programming Project Wk 07       | https://github.com/AlhassanLuqman/Azubi_Week07_Peer_Programming.git       |
+| 3 |  Azubi Week 08 Peer Programming            |  Alhassan Luqman's Submission of Peer Programming Project Wk 08       | https://github.com/AlhassanLuqman/Azubi_Week08_Peer_Programming.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
